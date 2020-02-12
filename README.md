@@ -1,4 +1,9 @@
-## Overview
+# IS-Assignment
+Employment assignment as interpreted by Justin White.
+Running of this project will require an Apache with mod-rewrite enabled running PHP ~7.3 and a MySQL database. It can also run on a NGINX server, however significant cofiguration is requiresd.
+I have included a sql dump of my test DB for reference or to upload as the DB.
+
+## Base Project
 
 Base project folder for a SilverStripe ([http://silverstripe.org](http://silverstripe.org)) installation. Required modules are installed via [http://github.com/silverstripe/recipe-cms](http://github.com/silverstripe/recipe-cms). For information on how to change the dependencies in a recipe, please have a look at [https://github.com/silverstripe/recipe-plugin](https://github.com/silverstripe/recipe-plugin). In addition, installer includes [theme/simple](https://github.com/silverstripe-themes/silverstripe-simple) as a default theme.
 
@@ -26,6 +31,3 @@ If you would like to make changes to the SilverStripe core codebase, we have an 
  * [Forums](http://silverstripe.org/forums)
  * [Developer Mailinglist](https://groups.google.com/forum/#!forum/silverstripe-dev)
  * [License](./LICENSE)
-# IS-Assignment
-# IS-Assignment
-# IS-Assignment
